@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Logo de Soul Café Bar (placeholder)">
+  <!-- PLACEHOLDER: reemplaza este archivo por el logo oficial (SVG o PNG cuadrado). -->
+  <defs><path id="top" d="M40 100 a60 60 0 0 1 120 0"/><path id="bot" d="M48 104 a52 52 0 0 0 104 0"/></defs>
+  <circle cx="100" cy="100" r="96" fill="#f6eddc"/>
+  <circle cx="100" cy="100" r="86" fill="#f4b13a"/>
+  <path d="M22 108 a78 78 0 0 1 156 0" fill="none" stroke="#0f0d0c" stroke-width="10" stroke-linecap="round"/>
+  <rect x="6" y="94" width="26" height="52" rx="12" fill="#0f0d0c"/>
+  <rect x="168" y="94" width="26" height="52" rx="12" fill="#0f0d0c"/>
+  <text font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="15" letter-spacing="3" fill="#3b2416"><textPath href="#top" startOffset="50%" text-anchor="middle">CAFÉ-BAR</textPath></text>
+  <circle cx="100" cy="104" r="44" fill="#3b2416"/>
+  <circle cx="100" cy="104" r="38" fill="none" stroke="#f6eddc" stroke-width="2"/>
+  <text x="100" y="116" text-anchor="middle" font-family="Pacifico, Brush Script MT, cursive" font-size="34" fill="#f6eddc">Soul</text>
+  <text font-family="Brush Script MT, cursive" font-style="italic" font-size="13" fill="#3b2416"><textPath href="#bot" startOffset="50%" text-anchor="middle">Seriously Good Music</textPath></text>
+</svg>

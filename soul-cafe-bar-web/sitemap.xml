@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Reemplaza [DOMINIO] por tu dominio real, por ejemplo www.soulcafebar.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://[DOMINIO]/</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/domicilios.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/reservas.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/reembolsos.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/propinas.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/alcohol.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/alergenos.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/normas.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/privacidad.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/aviso-privacidad.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/eliminacion-datos.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/terminos.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/cookies.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+  <url><loc>https://[DOMINIO]/pqrs.html</loc><lastmod>[FECHA-ISO]</lastmod></url>
+</urlset>
